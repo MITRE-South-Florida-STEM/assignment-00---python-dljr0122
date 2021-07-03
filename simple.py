@@ -10,7 +10,7 @@ xxxxxxxx
 
 (hint: use escape sequence)
 '''
-line1=''
+line1='ooo/\ooo'
 line2=''
 line3=''
 line4=''
